@@ -1,13 +1,13 @@
-# DM Sans
+# INSDIM Sans
 
-DM Sans is a six style type family based off of [Poppins](https://fonts.google.com/specimen/Poppins). 
+INSDIM Sans is a six style type family based off of [DM Sans](https://github.com/googlefonts/dm-fonts). 
 
-[Original Poppins — Source files](https://github.com/google/fonts/tree/master/ofl/poppins)
+[Original DM Sans — Source files](https://github.com/googlefonts/dm-fonts)
 
 ## Authors
 
 * Original Poppins design by Jonny Pinhorn
-* Modifications by [Colophon Foundry](http://www.colophon-foundry.org)
+* Modifications by [Colophon Foundry](http://www.colophon-foundry.org) and [INSDIM](https://www.insdim.com)
 * Creative Direction by [MultiAdaptor](https://multiadaptor.com/)
 
 ## Build

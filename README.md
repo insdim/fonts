@@ -1,22 +1,14 @@
-# DM Fonts
+# INSDIM Fonts
 
-This repository contains for DM suite of fonts: Sans, Serif Text and Serif Display.
-# DM Serif
+This repository contains for INSDIM suite of fonts: Sans.
 
-The [Serif](Serif) families are derived from [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro).
-
-![Sans](Documentation/image3.png)
-![Sans](Documentation/image4.png)
-
-# DM Sans
-The [Sans](Sans) family is derived from [Poppins](https://github.com/itfoundry/Poppins).
+# INSDIM Sans
+The [Sans](Sans) family is derived from [DM Sans](https://github.com/googlefonts/dm-fonts).
 
 ![Sans](Documentation/image1.png)
 ![Sans](Documentation/image2.png)
 
-The type design and font development was commissioned from [Colophon Foundry](https://www.colophon-foundry.org), with Creative Direction from [MultiAdaptor](https://multiadaptor.com) and the DeepMind team.
-
-These fonts are not officially supported Google products.
+The type design and font development was commissioned from [DM Sans](https://github.com/googlefonts/dm-fonts), with Creative Direction from [MultiAdaptor](https://multiadaptor.com), the DeepMind team, and INSDIM.
 
 ## License
 

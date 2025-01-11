@@ -1,4 +1,4 @@
-# DM Sans Changlog
+# INSDIM Sans Changelog
 
 ## v1.200
 Decomposed rotated components causing rendering issue in odd pixel sizes [#7](https://github.com/googlefonts/dm-fonts/issues/7)

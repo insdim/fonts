@@ -1,16 +1,16 @@
-    sources:
-      - DMSans.glyphs
-      - DMSans-Italic.glyphs
-    axisOrder:
-      - opsz
-      - wght
-      - ital
-    familyName: DM Sans
-    stat:
-      DMSans[opsz,wght].ttf:
-      - name: Optical size
-        tag: opsz
-        values:
+sources:
+  - INSDIMSans.glyphs
+  - INSDIMSans-Italic.glyphs
+axisOrder:
+  - opsz
+  - wght
+  - ital
+familyName: INSDIM Sans
+stat:
+  DMSans[opsz,wght].ttf:
+    - name: Optical size
+      tag: opsz
+      values:
         - name: 9pt
           value: 9
         - name: 14pt
@@ -23,9 +23,9 @@
           value: 36
         - name: 40pt
           value: 40
-      - name: Weight
-        tag: wght
-        values:
+    - name: Weight
+      tag: wght
+      values:
         - name: Thin
           value: 100
         - name: ExtraLight
@@ -48,17 +48,17 @@
           value: 900
         - name: ExtraBlack
           value: 1000
-      - name: Italic
-        tag: ital
-        values:
+    - name: Italic
+      tag: ital
+      values:
         - name: Roman
           value: 0
           linkedValue: 1
           flags: 2
-      DMSans-Italic[opsz,wght].ttf:
-      - name: Optical size
-        tag: opsz
-        values:
+  DMSans-Italic[opsz,wght].ttf:
+    - name: Optical size
+      tag: opsz
+      values:
         - name: 9pt
           value: 9
         - name: 14pt
@@ -71,9 +71,9 @@
           value: 36
         - name: 40pt
           value: 40
-      - name: Weight
-        tag: wght
-        values:
+    - name: Weight
+      tag: wght
+      values:
         - name: Thin
           value: 100
         - name: ExtraLight
@@ -96,9 +96,8 @@
           value: 900
         - name: ExtraBlack
           value: 1000
-      - name: Italic
-        tag: ital
-        values:
+    - name: Italic
+      tag: ital
+      values:
         - name: Italic
           value: 1
-          
